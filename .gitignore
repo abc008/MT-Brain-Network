@@ -1,0 +1,10 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+*.png
+*.npy
+data/
+data1/
+*pyc
