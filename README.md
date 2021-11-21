@@ -1,4 +1,4 @@
-# MT-Brain Networl
+# MT-Brain Network
 This repository contains a Pytorch implementation of [A multi-task two-path deep learning system for predicting the invasiveness of craniopharyngioma]. 
 
 
